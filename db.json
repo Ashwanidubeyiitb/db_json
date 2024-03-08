@@ -27,49 +27,8 @@
         "description": "Mimicking the human brain for performing tasks has been highly fruitful in dealing with complex data. It is gaining popularity exponentially due to the presence of multiple processing layers that contribute to the accuracy of the model. The common applications are seen in product development by businesses such as autonomous driving cars, OTT platforms, customized experiences of e-commerce platforms, and others.",
         "image": "https://source.unsplash.com/300x200/?ai,deep-learning",
         "rating": 4.4
-      },
-      {
-        "id": 5,
-        "name": "Explainable AI",
-        "description": "The enhanced dependency on AI has led humans to witness higher accuracy. However, frequently, the reason and transparency behind the judgment hold more value for reliability in AI and decision-making in humans. Explainable AI bridges this gap between humans and AI by providing the set of methods or processes followed by AI to reach a specific conclusion. The interpretability to further enhance decision-making accuracy will be more prominent in the coming times in industries like healthcare, human resources, and others.",
-        "image": "https://source.unsplash.com/300x200/?ai,explainable",
-        "rating": 4.6
-      },
-      {
-        "id": 6,
-        "name": "No-code Machine Learning",
-        "description": "The no-code machine learning programs allow the use of a simple drag-and-drop interface for model building and deployment. It reduces or eliminates the need for long programming hours and code editing. The approach is more time and cost-efficient while offering speed and flexibility. It also does not require high technical expertise, thus eliminating long hours and efforts of HR.",
-        "image": "https://source.unsplash.com/300x200/?ai,no-code",
-        "rating": 4.7
-      },
-      {
-        "id": 7,
-        "name": "N shot learning",
-        "description": "It refers to enhanced techniques that allow obtaining output with minimum quantity and quality of inputs. These techniques use limited data for desired output, thus eliminating access to databases or lengthy prompts. The common application is seen in facial recognition, image, and text classification.",
-        "image": "https://source.unsplash.com/300x200/?ai,n-shot",
-        "rating": 4.8
-      },
-      {
-        "id": 8,
-        "name": "Metaverses",
-        "description": "Similar to alternate universes, metaverses are capable of performing different tasks simultaneously. For instance, they can conduct business, establish virtual lives, and generate income. They have a high potential for growth and, hence, are part of recent Machine Learning trends.",
-        "image": "https://source.unsplash.com/300x200/?ai,metaverses",
-        "rating": 4.9
-      },
-      {
-        "id": 9,
-        "name": "Quantum Computing",
-        "description": "The complex problem needs advanced solutions. Quantum computing is among the current trends in AI that offer solutions and breakthroughs to machine learning algorithms and optimization problems. It addresses intricate challenges by leveraging the principles of quantum mechanics.",
-        "image": "https://source.unsplash.com/300x200/?ai,quantum",
-        "rating": 4.3
-      },
-      {
-        "id": 10,
-        "name": "Digital Twins",
-        "description": "It is also a new and interesting offering from AI that is currently on trend. It refers to digital copies of assets present in the real world. Gaining a high amount of popularity in the past few years, businesses and governments have greatly benefited from the concept. It can provide real-time insights while providing the ability to monitor and subsequently optimize the performance of their business. The effects are expected in the prediction of the economic impact of the global crisis, disease progression, and customer behaviors.",
-        "image": "https://source.unsplash.com/300x200/?ai,digital-twins",
-        "rating": 4.2
       }
+      
     ],
     "popular": [
       {
@@ -99,49 +58,8 @@
         "description": "Description for AI Model 14",
         "image": "https://source.unsplash.com/300x200/?ai",
         "rating": 4.4
-      },
-      {
-        "id": 15,
-        "name": "AI Model 15",
-        "description": "Description for AI Model 15",
-        "image": "https://source.unsplash.com/300x200/?ai",
-        "rating": 4.5
-      },
-      {
-        "id": 16,
-        "name": "AI Model 16",
-        "description": "Description for AI Model 16",
-        "image": "https://source.unsplash.com/300x200/?ai",
-        "rating": 4.6
-      },
-      {
-        "id": 17,
-        "name": "AI Model 17",
-        "description": "Description for AI Model 17",
-        "image": "https://source.unsplash.com/300x200/?ai",
-        "rating": 4.7
-      },
-      {
-        "id": 18,
-        "name": "AI Model 18",
-        "description": "Description for AI Model 18",
-        "image": "https://source.unsplash.com/300x200/?ai",
-        "rating": 4.8
-      },
-      {
-        "id": 19,
-        "name": "AI Model 19",
-        "description": "Description for AI Model 19",
-        "image": "https://source.unsplash.com/300x200/?ai",
-        "rating": 4.9
-      },
-      {
-        "id": 20,
-        "name": "AI Model 20",
-        "description": "Description for AI Model 20",
-        "image": "https://source.unsplash.com/300x200/?ai",
-        "rating": 5.0
       }
+      
     ],
     "top_rated": [
       {
@@ -178,42 +96,8 @@
         "description": "Description for AI Model 25",
         "image": "https://source.unsplash.com/300x200/?ai",
         "rating": 4.6
-      },
-      {
-        "id": 26,
-        "name": "AI Model 26",
-        "description": "Description for AI Model 26",
-        "image": "https://source.unsplash.com/300x200/?ai",
-        "rating": 4.5
-      },
-      {
-        "id": 27,
-        "name": "AI Model 27",
-        "description": "Description for AI Model 27",
-        "image": "https://source.unsplash.com/300x200/?ai",
-        "rating": 4.4
-      },
-      {
-        "id": 28,
-        "name": "AI Model 28",
-        "description": "Description for AI Model 28",
-        "image": "https://source.unsplash.com/300x200/?ai",
-        "rating": 4.3
-      },
-      {
-        "id": 29,
-        "name": "AI Model 29",
-        "description": "Description for AI Model 29",
-        "image": "https://source.unsplash.com/300x200/?ai",
-        "rating": 4.2
-      },
-      {
-        "id": 30,
-        "name": "AI Model 30",
-        "description": "Description for AI Model 30",
-        "image": "https://source.unsplash.com/300x200/?ai",
-        "rating": 4.1
       }
+      
     ],
     "upcoming": [
       {
@@ -243,49 +127,8 @@
         "description": "Description for AI Model 34",
         "image": "https://source.unsplash.com/300x200/?ai",
         "rating": 4.4
-      },
-      {
-        "id": 35,
-        "name": "AI Model 35",
-        "description": "Description for AI Model 35",
-        "image": "https://source.unsplash.com/300x200/?ai",
-        "rating": 4.3
-      },
-      {
-        "id": 36,
-        "name": "AI Model 36",
-        "description": "Description for AI Model 36",
-        "image": "https://source.unsplash.com/300x200/?ai",
-        "rating": 4.2
-      },
-      {
-        "id": 37,
-        "name": "AI Model 37",
-        "description": "Description for AI Model 37",
-        "image": "https://source.unsplash.com/300x200/?ai",
-        "rating": 4.1
-      },
-      {
-        "id": 38,
-        "name": "AI Model 38",
-        "description": "Description for AI Model 38",
-        "image": "https://source.unsplash.com/300x200/?ai",
-        "rating": 4.0
-      },
-      {
-        "id": 39,
-        "name": "AI Model 39",
-        "description": "Description for AI Model 39",
-        "image": "https://source.unsplash.com/300x200/?ai",
-        "rating": 3.9
-      },
-      {
-        "id": 40,
-        "name": "AI Model 40",
-        "description": "Description for AI Model 40",
-        "image": "https://source.unsplash.com/300x200/?ai",
-        "rating": 3.8
       }
+      
     ]
   }
   
